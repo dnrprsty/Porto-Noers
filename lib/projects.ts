@@ -15,7 +15,7 @@ export const projects: Project[] = [
     techStack: ["Flutter", "Dart", "Google Maps API", "Firebase"],
     shortDescription:
       "GPS tracking & coordinate-mapping mobile app for locating and reserving parking spots.",
-    thumbnailUrl: "/works/parkir-in/parkirin.png",
+    thumbnailUrl: "/works/parkir-in/parkirin.webp",
     repositoryUrl: "https://github.com/dnrprsty/Parkir-IN-Mobile-Apps.git",
     liveDemoUrl: "https://parkir-in-165838549527.asia-southeast2.run.app/",
     challenge:
@@ -34,7 +34,7 @@ export const projects: Project[] = [
     techStack: ["Codeigniter", "Vue JS", "Tailwind CSS", "MySQL"],
     shortDescription:
      "Digital book & comic circulation portal — features a public catalog and a dedicated administrative dashboard.",
-    thumbnailUrl: "/works/e-library/elib.png", // sesuaikan path-nya
+    thumbnailUrl: "/works/e-library/elib.webp", // sesuaikan path-nya
     repositoryUrl: "", // isi link repo GitHub lo
     liveDemoUrl: "https://pinjamkanbukudulule.vercel.app/",
     challenge:
@@ -53,7 +53,7 @@ export const projects: Project[] = [
     techStack: ["HTML", "CSS", "JavaScript", "Responsive Design"],
     shortDescription:
       "Professional company profile website — landing page and service showcase for an outbound & event organizer provider.",
-    thumbnailUrl: "/works/ozone/ozone.png", // disesuaikan path-nya
+    thumbnailUrl: "/works/ozone/ozone.webp", // disesuaikan path-nya
     repositoryUrl: "", // isi link repo lo kalau ada
     liveDemoUrl: "https://ozoneglobalindonesia.netlify.app/",
     challenge:
@@ -74,7 +74,7 @@ export const projects: Project[] = [
     techStack: ["Pencil", "Ink", "Watercolor", "Digital Scan"],
     shortDescription:
       "Hand-drawn illustrations — pencil sketches, ink linework, and watercolor studies.",
-    thumbnailUrl: "/works/traditional-art/red.jpg",
+    thumbnailUrl: "/works/traditional-art/red.webp",
     instagramUrl: "https://www.instagram.com/noers.std/",
     challenge:
       "Translating analog hand-drawn artwork into a digital showcase while preserving texture and detail.",
@@ -83,9 +83,9 @@ export const projects: Project[] = [
     contentBody:
       "A curated collection of traditional hand-drawn artworks: pencil portraits, ink illustrations, and watercolor studies. Each piece is scanned at high resolution to preserve every pencil stroke and wash.",
     gallery: [
-      "/works/traditional-art/red.jpg",
-      "/works/traditional-art/shisho.jpg",
-      "/works/traditional-art/3.png",
+      "/works/traditional-art/red.webp",
+      "/works/traditional-art/shisho.webp",
+      "/works/traditional-art/junggo.webp",
     ],
   },
   {
@@ -96,7 +96,7 @@ export const projects: Project[] = [
     techStack: ["Illustration", "Acrylic", "Keychain Production", "Packaging"],
     shortDescription:
       "Hand-painted acrylic keychain designs — original character art turned into wearable merch.",
-    thumbnailUrl: "/works/tegantong/tgt.jpeg",
+    thumbnailUrl: "/works/tegantong/tgt.webp",
     instagramUrl: "https://www.instagram.com/tegantong_/",
     challenge:
       "Creating durable, pocket-sized keychain art that retains visual clarity and charm at a small scale.",
