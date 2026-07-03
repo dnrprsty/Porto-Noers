@@ -74,8 +74,8 @@ export const projects: Project[] = [
     techStack: ["Pencil", "Ink", "Watercolor", "Digital Scan"],
     shortDescription:
       "Hand-drawn illustrations — pencil sketches, ink linework, and watercolor studies.",
-    thumbnailUrl: "/works/traditional-art/thumbnail.png",
-    instagramUrl: "https://www.instagram.com/art.noers/",
+    thumbnailUrl: "/works/traditional-art/red.jpg",
+    instagramUrl: "https://www.instagram.com/noers.std/",
     challenge:
       "Translating analog hand-drawn artwork into a digital showcase while preserving texture and detail.",
     solution:
@@ -83,8 +83,8 @@ export const projects: Project[] = [
     contentBody:
       "A curated collection of traditional hand-drawn artworks: pencil portraits, ink illustrations, and watercolor studies. Each piece is scanned at high resolution to preserve every pencil stroke and wash.",
     gallery: [
-      "/works/traditional-art/1.png",
-      "/works/traditional-art/2.png",
+      "/works/traditional-art/red.jpg",
+      "/works/traditional-art/shisho.jpg",
       "/works/traditional-art/3.png",
     ],
   },
@@ -96,8 +96,8 @@ export const projects: Project[] = [
     techStack: ["Illustration", "Acrylic", "Keychain Production", "Packaging"],
     shortDescription:
       "Hand-painted acrylic keychain designs — original character art turned into wearable merch.",
-    thumbnailUrl: "/works/tegantong/thumbnail.png",
-    instagramUrl: "https://www.instagram.com/tegantong/",
+    thumbnailUrl: "/works/tegantong/tgt.jpeg",
+    instagramUrl: "https://www.instagram.com/tegantong_/",
     challenge:
       "Creating durable, pocket-sized keychain art that retains visual clarity and charm at a small scale.",
     solution:
